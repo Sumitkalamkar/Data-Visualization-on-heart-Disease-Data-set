@@ -1,5 +1,4 @@
 # Data-Visualization-on-heart-Disease-Data-set
-
 # Heart Disease Dataset: Exploratory Data Analysis
 
 This repository contains an exploratory data analysis (EDA) project on a heart disease dataset. The aim of the project is to analyze patterns and correlations in the data to better understand the factors contributing to heart disease.
@@ -62,8 +61,13 @@ The analysis provides:
 - Extend the analysis to include external datasets for comparison.
 - Investigate temporal trends if time-series data is available.
 
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+## Contributions
+Contributions are welcome! Feel free to fork the repository and submit a pull request.
+
+
+
+
+
 
 
 
